@@ -15,3 +15,7 @@ https://developer.hashicorp.com/terraform/cli/commands/apply
 https://developer.hashicorp.com/terraform/cli/commands/destroy 
 
 https://developer.hashicorp.com/terraform/cli/commands/output 
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/db_instance
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
