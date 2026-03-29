@@ -19,3 +19,5 @@ https://developer.hashicorp.com/terraform/cli/commands/output
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/db_instance
 
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group
